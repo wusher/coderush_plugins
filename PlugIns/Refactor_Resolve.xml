@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Refactor_Resolve
+</name>
+</assembly>
+<members>
+<member name="F:Refactor_Resolve.Refactor_ResolvePlugIn.ResolveProvider">
+	<summary>
+ Required method for Designer support - do not modify
+ the contents of this method with the code editor.
+ </summary>
+</member><member name="T:Refactor_Resolve.Refactor_ResolvePlugIn">
+	<summary>
+ Summary description for Refactor_ResolvePlugIn.
+ </summary>
+</member><member name="F:Refactor_Resolve.OptRefactor_Resolve.chkEnhanced">
+	<summary>
+ Required method for Designer support - do not modify
+ the contents of this method with the code editor.
+ </summary>
+</member><member name="M:Refactor_Resolve.OptRefactor_Resolve.Dispose(System.Boolean)">
+	<summary>
+ Clean up any resources being used.
+ </summary>
+</member><member name="T:Refactor_Resolve.OptRefactor_Resolve">
+	<summary>
+ Summary description for OptRefactor_Resolve.
+ </summary>
+</member>
+</members>
+</doc>
